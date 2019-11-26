@@ -1,0 +1,150 @@
+/* header start*/
+header{
+	background-color: #121B2A;
+
+
+}
+.wrapper{
+	border: 3px solid green;
+	width: 80%;
+	margin: 0 auto;
+	min-height: 50px; 
+	overflow: hidden;
+	
+}
+.logo{
+	border: 2px solid white;
+	width: 25%;
+	float: left;
+	min-height: 50px; 
+}
+.menu{
+	border: 2px solid white;
+	width: 60%;
+	float: right;
+	min-height: 50px; 
+	overflow: hidden;
+}
+.sec1{
+	border: 1px solid yellow;
+	width: 23%;
+	float: right;
+	min-height: 50px; 
+}
+/* header end*/
+/* banner start*/
+.banner{
+	background-color: #1E384E;
+	min-height: 300px;
+
+}
+.image{
+	border: 3px solid red;
+	width: 80%;
+	margin: 0 auto;
+	min-height: 300px; 
+	overflow: hidden;
+
+}
+.content{
+	border: 1px solid red;
+	min-height: 130px;
+	width: 40%;
+	float: left;
+	margin-top: 100px;
+}
+/* banner end*/
+/*services start*/
+.services{
+	background-color: #121B2C;
+	min-height: 250px;
+
+}
+.service_wrapper{
+	border: 1px solid white;
+	width: 80%;
+	margin: 0 auto;
+	min-height: 250px; 
+	overflow: hidden;
+	
+}
+.part1{
+	border: 1px solid yellow;
+	width: 25%;
+	min-height: 200px;
+	float: left;
+	padding: 10px;
+	margin-left: 50px;
+}
+.service_logo{
+	border: 1px solid white;
+	min-height: 50px;
+	margin-bottom: 10px; 
+	width: 30%;
+
+
+
+}
+.service_content{
+	border: 1px solid white;
+	min-height: 180px;
+
+}
+/*services end*/
+
+/*contact start*/
+.contact{
+	background-color: #1E384E;
+	min-height: 250px;
+
+}
+.contact_wrapper{
+	border: 3px solid black;
+	width: 80%;
+	margin: 0 auto;
+	min-height: 250px; 
+	overflow: hidden;
+	
+}
+.p1{
+	border: 1px solid yellow;
+	width: 25%;
+	min-height: 200px;
+	float: left;
+	padding-left: 10px;
+	margin-top: 20px;
+	margin-left: 50px;
+}
+/*contact end*/
+/* footer start*/
+.footer{
+	background-color: #121B2A;
+}
+.footer_wrapper{
+	min-height: 40px;
+	border: 2px solid white;
+	width: 80%;
+	margin: 0 auto;
+	overflow: hidden;
+}
+.footer_menu{
+	border: 2px solid yellow;
+	width: 60%;
+	float: left;
+	min-height: 40px; 
+	overflow: hidden;	
+}
+.menu1{
+	border: 1px solid red;
+	width: 18%;
+	float: left;
+	min-height: 40px;
+	overflow: hidden;
+}
+.footer_logo{
+	border: 1px solid red;
+	width: 10%;
+	min-height: 40px; 
+	float: right;
+}
+/* footer end */
